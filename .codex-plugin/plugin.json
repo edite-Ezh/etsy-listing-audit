@@ -1,0 +1,25 @@
+{
+  "name": "etsy-listing-audit",
+  "version": "1.0.0",
+  "description": "Evidence-based Etsy listing audits by buyer intent, visual signals, SEO, demand, price, and delivery.",
+  "author": {
+    "name": "Edite"
+  },
+  "keywords": ["etsy", "listing-audit", "seo", "everbee", "ecommerce"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Etsy Listing Audit",
+    "shortDescription": "Audit Etsy listings by intent, signals, SEO and delivery.",
+    "longDescription": "Analyzes one Etsy listing at a time using buyer intent, hero and gallery evidence, offer clarity, materials, EverBee estimates, demand signals, pricing and delivery to the US, UK and Germany.",
+    "developerName": "Edite",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Analysis"],
+    "defaultPrompt": [
+      "Audit this Etsy listing.",
+      "Analyze the Etsy listing in my open browser tab.",
+      "Find the strongest hero ideas in this Etsy listing."
+    ],
+    "brandColor": "#B45F3A"
+  }
+}
+
