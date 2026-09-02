@@ -1,0 +1,5 @@
+interface:
+  display_name: "Etsy Listing Audit"
+  short_description: "Audits Etsy listings by buyer intent and signals"
+  default_prompt: "Use $etsy-listing-audit to audit this Etsy listing."
+
